@@ -1,0 +1,13 @@
+name: game-of-life-cr
+version: 0.1.0
+
+authors:
+  - arthrp <your-email-here>
+
+targets:
+  game-of-life-cr:
+    main: src/game-of-life-cr.cr
+
+crystal: '>= 1.10.1'
+
+license: LGPL
